@@ -1,0 +1,10 @@
+[package]
+name = "add_one"
+version = "0.1.0"
+authors = ["Mozy Okubo <mozy.okubo@gmail.com>"]
+edition = "2018"
+
+[lib]
+crate-type = ["cdylib"]
+
+[dependencies]
